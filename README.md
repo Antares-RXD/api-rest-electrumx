@@ -3,7 +3,7 @@ Check electrumx servers with wss protocol.
 
 ## NEED
 
-- NodeJs
+- NodeJs +18v
 - npm
 
 ## How install
