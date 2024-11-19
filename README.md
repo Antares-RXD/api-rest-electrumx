@@ -1,5 +1,5 @@
 # API REST for ELECTRUMX
-Check electrumx servers with wss protocol.
+Check electrumx servers with wss protocol
 
 ## NEED
 
